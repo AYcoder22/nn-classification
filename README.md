@@ -26,7 +26,7 @@ Include the neural network model diagram.
 Write your own steps
 
 ## PROGRAM
-
+```python
 {
   "nbformat": 4,
   "nbformat_minor": 0,
@@ -933,6 +933,7 @@ Write your own steps
     }
   ]
 }
+```
 
 ## Dataset Information
 
